@@ -12,6 +12,12 @@ In Descriptive analytics, a few stages were involved such as web scraping, text 
 
 For Diagnostic, predictive, and prescriptive analytics, we used python, IBM Watson as well as AutoAI.
 
-When we fitted our model into AutoAI, the top features that influenced price were wine rating as well as wine age.
+When we fitted our data into AutoAI, the top features that influenced price were wine rating as well as wine age.
 
 Nonetheless, our results reflected underfitting as we used RMSE (Root Mean Square Error) to measure how far our predictions were off the original price. There is a need to perhaps increase sample size, adjust model parameters and complexity, or engineer new features
+
+The files in this repository consist of: 
+- jupyter notebooks 
+- raw data set,
+- final clean data set
+- PDF of the final project.
